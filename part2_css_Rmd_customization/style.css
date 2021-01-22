@@ -1,0 +1,24 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Metamorphous&family=Nosifer&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Nosifer";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Metamorphous";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Amatic";
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}
